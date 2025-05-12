@@ -4,7 +4,7 @@
 An interactive dashboard built in **Tableau** to analyze HR data and uncover key workforce trends. The project focuses on employee attrition, demographics, and performance metrics to support data-driven HR decisions.
 
 ## 🔗 Live Dashboard
-[Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/yourusername/viz/HR_Analytics_Dashboard/YourDashboardName)  
+[Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/mohd.nafees5852/viz/HRDASHBOARD_17470570122940/HRANALYTICSDASHBOARD?publish=yes)  
 
 
 ## 📊 Project Overview
